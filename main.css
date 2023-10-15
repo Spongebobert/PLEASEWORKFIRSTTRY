@@ -1,0 +1,14 @@
+
+body{
+    background-size:cover;  
+    background-position:center;
+  }
+  .heading{
+    color:white;
+  }
+
+.anchor{
+    color:white;
+    font-size:15px;
+    width:200px;
+}
